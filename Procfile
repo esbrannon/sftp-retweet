@@ -1,1 +1,1 @@
-clock: python sftp-retweet.py
+worker: python sftp-retweet.py

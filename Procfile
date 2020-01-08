@@ -1,1 +1,1 @@
-clock: python stp-retweet.py
+clock: python sftp-retweet.py
